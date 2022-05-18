@@ -35,6 +35,12 @@ ul{
     color: black;
 }
 
+li{
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+    color: black;
+}
 h3{
     display: table;
     margin: 0 auto;
