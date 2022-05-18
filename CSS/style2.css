@@ -15,7 +15,7 @@ header{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 25px;
 }
 
 .topnav a:hover {
@@ -23,9 +23,15 @@ header{
     color: black;
 }
 .topnav a.active {
-    background-color: #04AA6D;
+    background-color: coral;
     color: white;
 }
+.topnav a.split{
+        float: right;
+        background-color: coral;
+        color: white;
+}
+
 main{
     background-image: url("../Img/textura-fondo_1404-99.jpg");
     background-size: cover;
