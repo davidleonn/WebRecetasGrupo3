@@ -1,0 +1,33 @@
+header{
+    background-image: url("../Img/cooking-header-try.jpg");
+    background-size: auto;
+    margin: 0;
+    height: 300px;
+}
+
+main{
+    background-image: url("../Img/textura-fondo_1404-99.jpg");
+    background-size: cover;
+    margin:0;
+    height: 1000px;
+    
+}
+h1{
+    color: rgb(81, 147, 212);
+    margin:0;
+    text-align: center;
+  
+}
+
+h2{
+    text-align: center;
+    color: black;
+    margin:0;  
+}
+
+ul{
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+}
