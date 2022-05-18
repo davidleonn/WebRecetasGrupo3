@@ -1,3 +1,6 @@
+body{
+    margin: 100px;; 
+}
 header{
     background-image: url("../Img/cooking-header-try.jpg");
     background-size: auto;
@@ -15,19 +18,26 @@ main{
 h1{
     color: rgb(81, 147, 212);
     margin:0;
-    text-align: center;
+    text-align: left;
   
 }
 
 h2{
-    text-align: center;
+    text-align: left;
     color: black;
     margin:0;  
 }
 
 ul{
     display: table;
-    margin: 0 auto;
-    text-align: center;
+    margin: 0;
+    text-align: left;
+    color: black;
+}
+
+h3{
+    display: table;
+    margin: 0;
+    text-align: left;
     color: black;
 }
