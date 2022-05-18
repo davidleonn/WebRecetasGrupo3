@@ -30,14 +30,14 @@ h2{
 
 ul{
     display: table;
-    margin: 0 auto;
+    margin: 0;
     text-align: left;
     color: black;
 }
 
 h3{
     display: table;
-    margin: 0 auto;
+    margin: 0;
     text-align: left;
     color: black;
 }
