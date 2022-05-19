@@ -2,7 +2,7 @@ header{
     background-image: url("../Img/cooking-header-try.jpg");
     background-size: auto;
     margin: 0;
-    height: 300px;
+    height: 227px;
 }
 .topnav{
     background-color: #333;
@@ -19,7 +19,7 @@ header{
 }
 
 .topnav a:hover {
-    background-color: #ddd;
+    background-color: coral;
     color: black;
 }
 
