@@ -55,3 +55,14 @@ ul{
     text-align: center;
     color: black;
 }
+footer {
+    width: 100%;
+    display: inline-block;
+    margin: 0;
+    height: 70px;
+    background-color: #999;
+}
+.copyright {
+    width: 50%;
+    float: left;
+}
